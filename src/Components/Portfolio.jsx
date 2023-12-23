@@ -64,7 +64,7 @@ const Portfolio = () => {
         <div style={{ maxWidth: "30%", alignSelf: "center" ,paddingLeft:"10%"}}>
           <img
             src={image}
-            style={{ height: "50%", width: "80%", objectFit: "fill" , borderRadius:"10%"}}
+            style={{ height: "50%", width: "90%", objectFit: "fill" , borderRadius:"10%"}}
             alt={imageAltText}
           />
         </div>
